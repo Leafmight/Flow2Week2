@@ -1,5 +1,13 @@
 # Flow2Week2
+Rækkefølgen er meget ligefrem - der ligger 3 opgaver i onsdagsmappen
+- Week2Wed1 er opgaven der handler om jokes
+- Week2Wed2 er til "4. Ajax with a full REST CRUD Endpoint and Error-handling"
+- Week2Wed3 er til "Create a Single Page Application that uses our cool API :-)"
 
+
+Mangler:
+- Der er lidt mangler i onsdagsopgaven.
+- Der mangler hele løsningen til torsdagsopgaven - der var simpelthen for mange opgaver.
 
 
 
